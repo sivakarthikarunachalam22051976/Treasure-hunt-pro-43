@@ -13,9 +13,6 @@ function setup() {
   createCanvas(1000,500);
   security = new Security();
   system = new System();
-  
-  
-  
 }
 
 function draw() {
